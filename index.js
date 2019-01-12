@@ -14,3 +14,4 @@ function johnLennonFacts(facts){
     i++
   } return newArray
 }
+
